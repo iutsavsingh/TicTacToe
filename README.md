@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-
+https://user-images.githubusercontent.com/106907207/193706320-4a3a3926-16bb-49d1-95a9-023584a8ad42.mp4
 
 ## License
 
