@@ -2,6 +2,10 @@
 
 ## *Utsav Kumar*
 
+<p align="center">
+  <img src="https://github.com/iutsavsingh/TicTacToe/blob/master/TicTacToe%20Banner.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
+
 **Tic-tac-toe** noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. 
 
 Time spent: **8** hours spent in total
